@@ -77,7 +77,7 @@ jobs:
           plugin_posts_covers: yes
           plugin_posts_limit: 2
           plugin_posts_source: hashnode
-          plugin_posts_user: kshitijshresth.hashnode.dev
+          plugin_posts_user: kshitijshresth
           plugin_stock: yes
           plugin_stock_duration: 1d
           plugin_stock_interval: 5m
