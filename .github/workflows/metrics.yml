@@ -32,7 +32,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://anilist.co/user/KS29/favorites
+          plugin_16personalities_url: https://www.16personalities.com/profiles/01fd259f36693
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -72,9 +72,13 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .KshitijShresth.login
+          plugin_leetcode_user: KshitijShresth
+          plugin_posts: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 2
+          plugin_posts_source: hashnode
+          plugin_posts_user: kshitijshresth.hashnode.dev
           plugin_stock: yes
           plugin_stock_duration: 1d
           plugin_stock_interval: 5m
           plugin_stock_symbol: MSFT
-
