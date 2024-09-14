@@ -1567,7 +1567,7 @@ function to evaluate the trained model using various metrics</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3284</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3288</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -1576,7 +1576,7 @@ function to evaluate the trained model using various metrics</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/824</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/825</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
@@ -1585,7 +1585,7 @@ function to evaluate the trained model using various metrics</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1718</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1719</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -1594,7 +1594,7 @@ function to evaluate the trained model using various metrics</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/742</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/744</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -1604,7 +1604,7 @@ function to evaluate the trained model using various metrics</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2024, 20:38:08 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2024, 21:39:22 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
